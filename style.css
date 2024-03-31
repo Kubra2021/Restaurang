@@ -1,0 +1,214 @@
+/* Reset some default styles for better consistency across browsers */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f8f8f8;
+  /* Set a background color for the body */
+  color: #333;
+  /* Set a default text color */
+}
+
+header {
+  background-color: #333;
+  /* Set a background color for the header */
+  color: #fff;
+  /* Set text color for the header */
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: #fff;
+  /* Set link color in the navigation */
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.menu-container {
+  border: 1px solid #dddddd3e;
+  margin : 10px auto;
+  /* Set auto margin to center horizontally */
+  padding: 10px;
+  min-height: 250px;
+  
+  /* Set the minimum height for event containers */
+}
+
+.menu {
+  background-color: rgba(255, 255, 255, 0.568);
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: calc(33.33% - 20px);
+  box-sizing: border-box;
+  margin-right: 10px;
+}
+
+.menu h2 {
+  color: #333;
+}
+
+.menu p {
+  margin: 5px 0;
+}
+
+.menu button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.menu button:hover {
+  background-color: #45a049;
+}
+
+body {
+  background-image: url('img.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ 
+}
+/* Add these styles to your CSS file */
+
+/* style.css */
+
+/* ... (previous styles) */
+
+.admin-login-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#adminLoginForm {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+footer {
+  margin-top: 220px;
+  background-color: #333;
+  /* Set a background color for the footer */
+  color: #fff;
+  /* Set text color for the footer */
+  padding: 10px;
+  text-align: center;
+}
+
+
+#admin {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+}
+
+#adminButtons {
+  width: 200px;
+  /* Adjust the width as needed */
+}
+
+#adminButtons button {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+#adminButtons button:hover {
+  background-color: #45a049;
+}
+
+#adminInfoContainer {
+  flex-grow: 1;
+  padding-left: 20px;
+  /* Adjust the left padding as needed */
+}
+
+#adminInfoContainer h2 {
+  color: #333;
+}
+.menu-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu-item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 1000px;
+  /* veya istediğiniz genişliği belirleyebilirsiniz */
+}
+
+.menu-item h3 {
+  margin-top: 0;
+}
+
+.menu-item p {
+  margin-bottom: 5px;
+}
+
+.category {
+  display: inline-block;
+  /* Kategorileri yatay olarak hizalar */
+  margin: 0 10px;
+  /* Kategoriler arasında boşluk bırakır */
+}
+.menu-item {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,17 @@
+{
+  "name": "restaurang",
+  "version": "1.0.0",
+  "description": "Run json-server:",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server -p 8080 -o | npx json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "14.1.1",
+    "json-server": "^0.17.4"
+  }
+}

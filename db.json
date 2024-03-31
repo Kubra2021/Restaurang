@@ -1,0 +1,156 @@
+{
+  "menu": {
+    "Huvudrätter": [
+      {
+        "id": 1,
+        "category": "huvudrätter",
+        "name": "Kuru Fasulye",
+        "description": "Traditionell turkisk rätt gjord med vita bönor tillagade i en tomatbaserad sås, kryddad med lök. Serveras med rispilaff och inlagda grönsaker.",
+        "price": 175,
+        "sold_out": false
+      },
+      {
+        "id": 2,
+        "category": "huvudrätter",
+        "name": "Beyti",
+        "description": "Turkisk kebab gjord på kryddat köttfärs eller lamm, insvept i lavashbröd och grillad till perfektion. Serveras med yoghurtsås och grillade grönsaker.",
+        "price": 200,
+        "sold_out": false
+      },
+      {
+        "id": 3,
+        "category": "huvudrätter",
+        "name": "Pasta Pesto",
+        "description": "Färsk pasta med örtsås & italiensk bacon, serveras med ruccola & parmesan.",
+        "price": 160,
+        "sold_out": false
+      },
+      {
+        "id": 4,
+        "category": "huvudrätter",
+        "name": "Kyckling med curry sås",
+        "description": "kombinerar saftiga kycklingbitar med en kryddig och krämig sås, vanligtvis serverad med ris eller bröd.",
+        "price": 180,
+        "sold_out": false
+      },
+      {
+        "id": 5,
+        "category": "huvudrätter",
+        "name": "Ali Nazik ",
+        "description": "Det är en rätt som är specifik för det turkiska köket och serveras vanligtvis med rostad auberginepuré och grillat dönerkött ovanpå..",
+        "price": 210,
+        "sold_out": false
+      }
+    ],
+    "Förrätter": [
+      {
+        "id": 6,
+        "category": "förrätter",
+        "name": "Acili Ezme",
+        "description": "Det är en typ av turkisk mezze som görs genom att blanda hackade grönsaker med citronsaft, olivolja och kryddor.",
+        "price": 80,
+        "sold_out": true
+      },
+      {
+        "id": 7,
+        "category": "förrätter",
+        "name": "Rysk sallad",
+        "description": "Det är en typ av sallad som görs genom att blanda ingredienser som kokt potatis, morötter, ärtor och pickles med majonnäs eller yoghurt..",
+        "price": 90,
+        "sold_out": false
+      },
+      {
+        "id": 8,
+        "category": "förrätter",
+        "name": "Sarma",
+        "description": "Sarma är en traditionell turkisk rätt som tillagas genom att den slås in i vinblad och innehåller ris, köttfärs, lök och kryddor. Kokt och serverat med citron.",
+        "price": 100,
+        "sold_out": false
+      },
+      {
+        "id": 9,
+        "category": "förrätter",
+        "name": "Cig Köfte",
+        "description": "Det är en traditionell turkisk rätt som tillagas genom att man knådar råa köttbullar, bulgur, köttfärs, lök, tomatpuré, kryddor och grönt..",
+        "price": 100,
+        "sold_out": false
+      },
+      {
+        "id": 10,
+        "category": "förrätter",
+        "name": "Mucver",
+        "description": "Det är en turkisk rätt gjord genom att steka riven zucchini i mjöl och vanligtvis berikad med ägg och kryddor..",
+        "price": 110,
+        "sold_out": false
+      }
+    ],
+    "Desserter": [
+      {
+        "id": 11,
+        "category": "desserter",
+        "name": "Baklava",
+        "description": "Lager av filodeg fylld med hackade nötter och sötad med honungssirap.",
+        "price": 150,
+        "sold_out": false
+      },
+      {
+        "id": 12,
+        "category": "desserter",
+        "name": "Profiterol",
+        "description": "Det är en efterrätt med ursprung i det franska köket och populär runt om i världen, gjord genom att fylla små, runda bullar med chokladsås och grädde..",
+        "price": 80,
+        "sold_out": false
+      },
+      {
+        "id": 13,
+        "category": "desserter",
+        "name": "Tiramisu",
+        "description": "Den serveras med en kexbotten indränkt i kaffe, täckt med en blandning av mascarponeost, ägg och socker, och vanligtvis garnerad med kakao.",
+        "price": 90,
+        "sold_out": false
+      },
+      {
+        "id": 14,
+        "category": "dessert",
+        "name": "Cheesecake",
+        "description": "Den har en fyllning gjord av ingredienser som ost, ägg och socker, bred på ett kex. Cheesecake är täckt med fruktsås.",
+        "price": 110,
+        "sold_out": false
+      }
+    ],
+    "drycker": [
+      {
+        "id": 15,
+        "category": "drycker",
+        "name": "Milk Shake",
+        "description": "Den görs genom att blanda mjölk, glass och olika sötningsmedel eller smakämnen med en mixer eller mixer och serveras kall.",
+        "price": 40,
+        "sold_out": false
+      },
+      {
+        "id": 16,
+        "category": "drycker",
+        "name": "Ayran",
+        "description": "Uppfriskande yoghurtdryck blandad med vatten och en nypa salt.",
+        "price": 25,
+        "sold_out": false
+      },
+      {
+        "id": 17,
+        "category": "drycker",
+        "name": "Turkiskt Tea",
+        "description": "Starkt, svart te serveras i små tulpanformade glas. Avnjuts vanligtvis varm och osötad, men kan serveras med socker på begäran.",
+        "price": 30,
+        "sold_out": false
+      },
+      {
+        "id": 18,
+        "category": "drycker",
+        "name": "Turkiskt kaffe",
+        "description": "Ett traditionellt ofiltrerat kaffe bryggt i en cezve, serverat med skum på toppen.",
+        "price": 60,
+        "sold_out": false
+      }
+    ]
+  }
+}
