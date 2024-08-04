@@ -23,7 +23,7 @@
         "name": "Pasta Pesto",
         "description": "Färsk pasta med örtsås & italiensk bacon, serveras med ruccola & parmesan.",
         "price": 160,
-        "sold_out": false
+        "sold_out": true
       },
       {
         "id": 4,
@@ -49,7 +49,7 @@
         "name": "Acili Ezme",
         "description": "Det är en typ av turkisk mezze som görs genom att blanda hackade grönsaker med citronsaft, olivolja och kryddor.",
         "price": 80,
-        "sold_out": true
+        "sold_out": false
       },
       {
         "id": 7,
@@ -115,10 +115,10 @@
         "name": "Cheesecake",
         "description": "Den har en fyllning gjord av ingredienser som ost, ägg och socker, bred på ett kex. Cheesecake är täckt med fruktsås.",
         "price": 110,
-        "sold_out": false
+        "sold_out": true
       }
     ],
-    "drycker": [
+    "Drycker": [
       {
         "id": 15,
         "category": "drycker",
